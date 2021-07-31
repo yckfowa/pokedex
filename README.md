@@ -4,9 +4,9 @@ This project is made with python 3 and tkinter to provde a simple living pokedex
 
 - sources
 
-  [pypokedex](https://github.com/arnavb/pypokedex) - the api libary 
+  - [pypokedex](https://github.com/arnavb/pypokedex) - the api libary 
   
-  [NeuralNine](https://www.youtube.com/watch?v=LxyJ2s0IqYc&t=862s) - the tutorial video of the project 
+  - [NeuralNine](https://www.youtube.com/watch?v=LxyJ2s0IqYc&t=862s) - the tutorial video of the project 
 
 
 - learnt
