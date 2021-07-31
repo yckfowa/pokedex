@@ -1,10 +1,11 @@
-# pokedex
+# Pokedex
 
 This project is made with python 3 and tkinter to provde a simple living pokedex and learning the use of api  
 
 - sources
 
   [pypokedex](https://github.com/arnavb/pypokedex)
+  
   [NeuralNine](https://www.youtube.com/watch?v=LxyJ2s0IqYc&t=862s)
 
 
